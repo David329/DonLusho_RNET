@@ -1,0 +1,15 @@
+C:\Users\DZZ\Pictures\tp2\TFIA\TFIA\bin\Debug\TFIA.exe.config
+C:\Users\DZZ\Pictures\tp2\TFIA\TFIA\bin\Debug\TFIA.exe
+C:\Users\DZZ\Pictures\tp2\TFIA\TFIA\bin\Debug\TFIA.pdb
+C:\Users\DZZ\Pictures\tp2\TFIA\TFIA\obj\Debug\TFIA.csprojResolveAssemblyReference.cache
+C:\Users\DZZ\Pictures\tp2\TFIA\TFIA\obj\Debug\TFIA.Form1.resources
+C:\Users\DZZ\Pictures\tp2\TFIA\TFIA\obj\Debug\TFIA.Properties.Resources.resources
+C:\Users\DZZ\Pictures\tp2\TFIA\TFIA\obj\Debug\TFIA.csproj.GenerateResource.Cache
+C:\Users\DZZ\Pictures\tp2\TFIA\TFIA\obj\Debug\TFIA.exe
+C:\Users\DZZ\Pictures\tp2\TFIA\TFIA\obj\Debug\TFIA.pdb
+C:\Users\DZZ\Pictures\tp2\TFIA\TFIA\bin\Debug\DynamicInterop.dll
+C:\Users\DZZ\Pictures\tp2\TFIA\TFIA\bin\Debug\RDotNet.dll
+C:\Users\DZZ\Pictures\tp2\TFIA\TFIA\bin\Debug\RDotNet.NativeLibrary.dll
+C:\Users\DZZ\Pictures\tp2\TFIA\TFIA\bin\Debug\DynamicInterop.xml
+C:\Users\DZZ\Pictures\tp2\TFIA\TFIA\bin\Debug\RDotNet.xml
+C:\Users\DZZ\Pictures\tp2\TFIA\TFIA\bin\Debug\RDotNet.NativeLibrary.xml

@@ -1,0 +1,1 @@
+se debe mejorar la implementacion en R para no hacer condicionales en c#, Aplicar metodos set y get en C# para R
