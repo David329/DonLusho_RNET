@@ -201,7 +201,7 @@
             this.Controls.Add(this.txtverificada);
             this.Controls.Add(this.txtretweets);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "TF - IA";
             this.ResumeLayout(false);
             this.PerformLayout();
 
